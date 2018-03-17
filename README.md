@@ -1,3 +1,4 @@
 # hello-world
-First repository\n
+First repository
+
 This is me testing out writing on GitHub
